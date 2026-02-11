@@ -1,5 +1,7 @@
 # Yolo11_OpenCv_DNN
 
+注：通用于YoloV8 YoloV11 YoloV12 YoloV13 YoloV26
+
 基于 **OpenCV DNN** 的 **YOLO11** 推理示例项目，使用 **ONNX 模型**，无需 PyTorch / TensorRT，适合  
 **部署、离线推理、嵌入式 / Windows / Linux 环境**。
 
